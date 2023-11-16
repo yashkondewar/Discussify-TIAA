@@ -1,0 +1,8 @@
+.sidebar {
+  width: 15rem;
+  background-color: #fff;
+  position: fixed;
+  margin-top: -2rem;
+  display: flex;
+  height: 100%;
+}
