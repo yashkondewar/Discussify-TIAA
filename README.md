@@ -15,6 +15,10 @@ categories.<br>
 ● Focused on creating a user-friendly interface and fostering a vibrant online knowledge-sharing
 and discussion community.<be>
 
+## Demo Video
+
+https://github.com/yashkondewar/Discussify-TIAA/assets/98695632/69aa8570-4d92-4376-82e4-e445c16a5068
+
 ## Screenshots
 ![Discussify 1](https://github.com/yashkondewar/Discussify/assets/98695632/9f986f0b-0deb-4b50-8480-483913c4af1a)
 *Home Page*
